@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Carrot",
+    "type": "seed",
+    "stock": 12
+  },
+  {
+    "name": "Rain",
+    "type": "weather",
+    "stock": 1
+  }
+]
