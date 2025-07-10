@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Carrot",
+    "type": "seed",
+    "stock": 12
+  },
+  {
+    "name": "Golden Watering Can",
+    "type": "gear",
+    "stock": 4
+  },
+  {
+    "name": "Rain",
+    "type": "weather",
+    "stock": 1
+  }
+]
